@@ -1,0 +1,28 @@
+{
+  "name": "cicd-security-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --test",
+    "lint": "htmlhint index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonuYadav05/CICD-Security-Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SonuYadav05/CICD-Security-Demo/issues"
+  },
+  "homepage": "https://github.com/SonuYadav05/CICD-Security-Demo#readme",
+  "devDependencies": {
+    "htmlhint": "^1.9.2"
+  }
+}
